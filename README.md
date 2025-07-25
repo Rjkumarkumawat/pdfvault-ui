@@ -3,7 +3,9 @@
 > 🎯 **All-in-One PDF Utility Toolkit**  
 > 🔧 Built with Streamlit — No installations, no hassle.  
 > ✨ Developed by **Rajkumar Kumawat**
-[![Open in Streamlit](https://img.shields.io/badge/🚀 Launch-PDFVault_UI-informational?style=for-the-badge&logo=streamlit)](https://pdfvault-ui-rajkumar.streamlit.app/)
+
+🔗 **Live Demo**: [https://pdfvault-ui-rajkumar.streamlit.app](https://pdfvault-ui-rajkumar.streamlit.app)
+
 ---
 
 ## 🚀 What is PDFVault-UI?
