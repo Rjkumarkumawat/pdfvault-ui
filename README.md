@@ -26,6 +26,25 @@ Whether you're protecting sensitive documents or adding watermark branding — P
 
 ---
 
+## 📸 UI Screenshots
+
+### 🔒 Protect PDF  
+![Protect](assets/Protect.png)
+
+### 🔓 Unlock PDF  
+![Unlock](assets/Unlock.png)
+
+### 📎 Merge PDFs  
+![Merge](assets/Merge.png)
+
+### ✂️ Split PDF  
+![Split](assets/Split.png)
+
+### 📝 Add Watermark  
+![Watermark](assets/Watermark.png)
+
+---
+
 ## 📦 Installation (Local Use)
 
 ```bash
@@ -33,7 +52,7 @@ git clone https://github.com/Rjkumarkumawat/pdfvault-ui.git
 cd pdfvault-ui
 pip install -r requirements.txt
 streamlit run app.py
-
+ 
 ````
 
 Then open [http://localhost:8501](http://localhost:8501) in your browser.
