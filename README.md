@@ -116,7 +116,3 @@ If you find this project useful:
 * Contribute via pull requests
 
 > ❤️ Made with care by Rajkumar Kumawat
-
-```
-
-
