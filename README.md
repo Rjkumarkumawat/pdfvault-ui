@@ -1,5 +1,3 @@
-
-````markdown
 # 🔐 PDFVault-UI
 
 > 🎯 **All-in-One PDF Utility Toolkit**  
@@ -35,6 +33,7 @@ git clone https://github.com/Rjkumarkumawat/pdfvault-ui.git
 cd pdfvault-ui
 pip install -r requirements.txt
 streamlit run app.py
+
 ````
 
 Then open [http://localhost:8501](http://localhost:8501) in your browser.
