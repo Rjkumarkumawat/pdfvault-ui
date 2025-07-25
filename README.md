@@ -1,3 +1,5 @@
+
+````markdown
 # 🔐 PDFVault-UI
 
 > 🎯 **All-in-One PDF Utility Toolkit**  
@@ -33,3 +35,68 @@ git clone https://github.com/Rjkumarkumawat/pdfvault-ui.git
 cd pdfvault-ui
 pip install -r requirements.txt
 streamlit run app.py
+````
+
+Then open [http://localhost:8501](http://localhost:8501) in your browser.
+
+---
+
+## 📁 Project Structure
+
+```
+pdfvault-ui/
+├── app.py                  # Streamlit UI interface
+├── requirements.txt        # Python dependencies
+└── modules/                # Core logic for all PDF functions
+    ├── protector.py
+    ├── unlocker.py
+    ├── merger.py
+    ├── splitter.py
+    └── watermarker.py
+```
+
+---
+
+## 🌐 Online Deployment (Optional)
+
+Soon, you can deploy **PDFVault-UI** on:
+
+* [Streamlit Cloud](https://streamlit.io/cloud)
+* [Render](https://render.com/)
+* [Fly.io](https://fly.io/)
+
+📌 Just upload this repo, and set `app.py` as entry point.
+
+---
+
+## 🧪 Powered By
+
+* [Streamlit](https://streamlit.io/) for frontend
+* [PyPDF2](https://github.com/py-pdf/pypdf) for PDF manipulation
+* [ReportLab](https://www.reportlab.com/) for generating text-based watermarks
+
+---
+
+## 👨‍💻 Author
+
+**Rajkumar Kumawat**
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/rajkumar-kumawat-66072b199/)
+* 🐙 [GitHub](https://github.com/Rjkumarkumawat)
+* 📧 [rajkumarkumawat.workup@gmail.com](mailto:rajkumarkumawat.workup@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you find this project useful:
+
+* Give it a ⭐ on GitHub
+* Share it with friends or colleagues
+* Contribute via pull requests
+
+> ❤️ Made with care by Rajkumar Kumawat
+
+```
+
+
